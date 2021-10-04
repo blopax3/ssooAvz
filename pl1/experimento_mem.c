@@ -65,7 +65,8 @@ int main (int argc, char * argv[])
 
     cadenas ();
 
-    return 0;           // 0 == todo ha ido bien
+    //return 0;           // 0 == todo ha ido bien
+    for (;;) {}
 }
 
 // Definición de las funciones restantes:
